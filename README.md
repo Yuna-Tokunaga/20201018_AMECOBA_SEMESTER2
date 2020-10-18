@@ -1,0 +1,2 @@
+# 20201018_AMECOBA_SEMESTER2
+AMECOBA2期によるアジャイル開発（WEBサイトの開発）
